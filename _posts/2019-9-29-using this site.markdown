@@ -13,3 +13,9 @@ Edit the file in a text editor like Notepad++. Update the "front matter" - in a 
 Then, write the post. 
 
 You can use [markdown syntax](https://www.markdownguide.org/basic-syntax/) to help.
+
+You need to be running Jekyll in order to compile and serve the website.
+
+Then, you need to upload the new site to the github repository. 
+
+Instructions to follow. 
