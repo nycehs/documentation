@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Headers"
+date:   2019-09-30 09:13:26 -0400
+categories: CSS HTML headers
+
+---
+In HTML, headers are given different weights. H1 is for titles, H2 for the second nested tier of headers, H3 for the tier below that, et cetera.
+
+For accessibility, headers should be properly nested - hierarchically. That is, an H3 must have an H2 somewhere above it. 
+
+*H1 should be used only for the data story's title (overlaid upon the title image).
+*H2 should be for major section headers (including the text's first header).
+*H3 should be used for subsection headers (if necessary).
+
+Other guidelines for proper header use:
+*Limit them to one line - especially avoiding single dangling words on a second line.
+*Keep the headers as powerful as headlines. A user quickly scrolling the story without reading the text should still be able to get the barest, clearest main message by reading the headers.
+*For subsection headers, keep the sections small - and use headers to distinguish several sections (e.g., don't have a single instance of an H3). 
