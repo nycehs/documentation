@@ -22,7 +22,7 @@ title: Data story documentation
 email: nyctrackingportal@health.nyc.gov
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains instructions and documentation for how we produce our data stories. 
-baseurl: "documentation" # the subpath of your site, e.g. /blog
+baseurl: "/documentation" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nychealthy
 github_username:  nycehs
